@@ -1,0 +1,91 @@
+ Agenda
+ Introduction to Cloud Computing
+ Why Cloud?
+ Before Cloud Computing
+ What is Cloud Computing?
+ Cloud Service Models
+ Cloud Deployment Model
+ Cloud Providers
+ Introduction to AWS
+ Use-Cases
+ Advantages of AWS
+ AWS Architecture
+ Domains of AWS
+ AWS Compute Services
+ What is an Instance?
+ What is EC2?
+ Types of Instances
+ Instance Pricing Models
+ Use Case
+ AWS Lambda
+ AWS Compute Domains
+ Why AWS Lambda?
+ AWS SDKs
+ Using AWS Lambda  with Eclipse
+ Demo
+ AWS Elastic Beanstalk
+ What is AWS Elastic Beanstalk?
+ PaaS
+ Web Hosting Platforms
+ Features of Elastic Beanstalk
+ Fundamentals of Elastic Beanstalk
+ Architecture of Elastic Beanstalk
+ Demo: How to Deploy An Application Using Beanstalk
+ Storage Service
+ What is Cloud Storage?
+ Cloud Storage Practices
+ Cloud Storage Service Providers
+ S3 Tutorial For Beginners
+ Buckets & Objects
+ Versioning & Cross Region Replication
+ S3 Transfer Acceleration
+ Use Case: IMDB Media
+ Demo: AWS S3 Complete Walkthrough
+ Networking Services
+ AWS CloudFront
+ How AWS CloudFront Delivers Content?
+ Applications
+ Demo: AWS CloudFront Distribution
+ Monitoring & Management
+ AWS CloudWatch
+ Need For Cloud-Based Monitoring
+ What is Amazon CloudWatch?
+ Amazon CloudWatch
+ Amazon CloudWatch Demo
+ Amazon CloudWatch Event
+ Amazon CloudWatch Event Demo
+ Amazon CloudWatch Logs
+ AWS CloudFormation
+ Get started in AWS CloudFormation
+ Autoscaling & Load Balancer
+ Snapshots & AMIs
+ Why Auto Scaling?
+ Why Auto Scaling?
+ What is the Load Balancer?
+ Types of Load Balancers
+ Hands-On
+ Cloud Security
+ Why Cloud Security?
+ Public, Private or Hybrid?
+ How Secure Should you make your application?
+ How to Troubleshoot a Threat in the Cloud?
+ How did they come to know?
+ Cloud Security in AWS
+ AWS IAM
+ What is IAM?
+ Multi-Factor Authentication
+ Hands-On
+ Amazon Redshift
+ Demo - Setting Up A Warehouse
+ DevOps on AWS
+ AWS DevOps Services
+ What is Continuous Integration & Delivery?
+ What Is CodePipeline?
+ CodePipeline Architecture
+ Code Deploy, Code Build & Code Commit
+ Demo - Deploying An Application Using AWS CodePipeline
+ AWS Interview Question
+ EC2 Questions
+ Amazon Storage
+ AWS VPC 
+ Amazon Database 
