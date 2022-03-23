@@ -1,37 +1,51 @@
- Agenda
- Introduction to Cloud Computing
- Why Cloud?
- Before Cloud Computing
- What is Cloud Computing?
- Cloud Service Models
- Cloud Deployment Model
- Cloud Providers
- Introduction to AWS
- Use-Cases
- Advantages of AWS
- AWS Architecture
- Domains of AWS
- AWS Compute Services
- What is an Instance?
- What is EC2?
- Types of Instances
- Instance Pricing Models
- Use Case
- AWS Lambda
- AWS Compute Domains
- Why AWS Lambda?
- AWS SDKs
- Using AWS Lambda  with Eclipse
- Demo
- AWS Elastic Beanstalk
- What is AWS Elastic Beanstalk?
+
+Basics of cloud Computing (Completed)
+-------------------------------
+ Introduction to Cloud Computing (Completed)
+ Why Cloud? (Completed)
+ Before Cloud Computing (Completed)
+ What is Cloud Computing? (Completed)
+ Cloud Service Models (Completed)
+ Cloud Deployment Model (Completed)
+ Cloud Providers (Completed)
+
+AWS (In Progress)
+---------------------
+Domains of AWS 
+    -Compute
+      -EC2 (completed)
+      -Elastic Beanstalk
+      -AWS Lambda
+    -migration
+    -Security & compliance
+    -storage
+    -Networking
+    -Messaging
+    -Databases
+    -Management tools
+---------------------
+ Advantages of AWS (completed)
+ AWS Architecture (completed)
+ AWS Compute Services (completed)
+ What is an Instance? (completed)
+ What is EC2? (completed)
+ Types of Instances (completed)
+ Instance Pricing Models (completed)
+ AWS Lambda (completed)
+ AWS SDKs (completed)
+ Using AWS Lambda  with Eclipse (completed)
+ AWS Elastic Beanstalk (In Progress)
+ What is AWS Elastic Beanstalk? (In Progress)
  PaaS
  Web Hosting Platforms
  Features of Elastic Beanstalk
  Fundamentals of Elastic Beanstalk
  Architecture of Elastic Beanstalk
  Demo: How to Deploy An Application Using Beanstalk
+
+
  Storage Service
+ ---------------------------------
  What is Cloud Storage?
  Cloud Storage Practices
  Cloud Storage Service Providers
@@ -63,7 +77,9 @@
  Why Auto Scaling?
  What is the Load Balancer?
  Types of Load Balancers
+ 
  Hands-On
+-------------------
  Cloud Security
  Why Cloud Security?
  Public, Private or Hybrid?
@@ -74,7 +90,10 @@
  AWS IAM
  What is IAM?
  Multi-Factor Authentication
+
+
  Hands-On
+--------------------
  Amazon Redshift
  Demo - Setting Up A Warehouse
  DevOps on AWS
